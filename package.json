@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_practioce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/begoniasuccess/nodejs_practice.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "begonia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/begoniasuccess/nodejs_practice/issues"
+  },
+  "homepage": "https://github.com/begoniasuccess/nodejs_practice#readme"
+}
